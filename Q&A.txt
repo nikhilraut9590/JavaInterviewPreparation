@@ -1,0 +1,3 @@
+Interview Question.
+1. What is static initialzer block?
+  - static initialzer is a statc block {} inside java class and run only one whenmain method get executed or only one before constructor call.
