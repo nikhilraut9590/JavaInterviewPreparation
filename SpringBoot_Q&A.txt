@@ -1,0 +1,19 @@
+Q-1: What is the Spring Boot?
+     ->Spring Boot is an open-source Java framework that simplifies the development of stand-alone, production-grade Spring-based applications. It builds upon the core Spring Framework while providing additional features and conventions that make it easier to create robust and highly scalable applications.
+One of the main goals of Spring Boot is to minimize the configuration required to set up a Spring application. It achieves this by adopting an opinionated approach to configuration and providing sensible defaults, allowing developers to focus more on writing application logic rather than dealing with boilerplate code.
+Spring Boot offers a wide range of features that make it popular among Java developers. Some key features include:
+
+1. Auto-configuration: Spring Boot can automatically configure various components and services based on classpath dependencies, reducing the need for explicit configuration.
+
+2. Embedded server: It includes an embedded servlet container (e.g., Tomcat, Jetty, Undertow) so that you can run your application as a standalone JAR file without needing to deploy it to an external server.
+
+3. Starter dependencies: Spring Boot provides a collection of starter dependencies that encapsulate common libraries and frameworks, making it easier to add specific functionalities to your application with minimal configuration.
+
+4. Actuator: It offers built-in support for monitoring and managing your application in production, exposing various endpoints for metrics, health checks, and management operations.
+
+5. Spring Boot CLI: It provides a command-line interface for rapidly prototyping and developing Spring Boot applications, allowing you to write Groovy scripts that leverage the Spring Boot framework.
+
+Overall, Spring Boot aims to simplify the development process, promote best practices, and improve developer productivity when building Java applications, particularly web applications. It has gained significant popularity due to its ease of use, strong community support, and seamless integration with the broader Spring ecosystem.
+
+Q-2 : Explain a few important Spring Boot Key features?
+		-> 
